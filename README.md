@@ -1,17 +1,17 @@
 Who am I? 👦
 
-- 👩‍💻 Data Scientist;
-- 📚 Researcher;
-- 👩‍🏫 Math Teacher;
-- ⛩ Origamist;
-- 🔭Amauter Astronomer.
+- Data Scientist;
+- Researcher;
+- Math Teacher;
+- Origamist;
+- Amauter Astronomer.
 
-Skills 👩‍💻
-- 🐍 Python.
-- 🗄 SQL.
-- 🧮 Power BI.
-- 🔮 Machine Learning.
-- 📊 Data Visualization
+My Main Skills 👩‍💻
+- Python.
+- SQL.
+- Power BI.
+- Machine Learning.
+- Data Visualization
 
 Find me in other places 🌎
 - Linkedin: https://www.linkedin.com/in/brunoras/
