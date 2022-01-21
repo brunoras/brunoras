@@ -1,9 +1,10 @@
 Who am I? 👦
 
-- 👩‍💻 Data Scientist.
-- 📚 Researcher.
-- 👩‍🏫 Math Teacher.
-- ⛩ Origamist.
+- 👩‍💻 Data Scientist;
+- 📚 Researcher;
+- 👩‍🏫 Math Teacher;
+- ⛩ Origamist;
+- 🔭Amauter Astronomer.
 
 Skills 👩‍💻
 - 🐍 Python.
