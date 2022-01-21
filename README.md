@@ -13,7 +13,7 @@ Skills 👩‍💻
 - 🔮 Machine Learning.
 - 📊 Data Visualization
 
-Find me around the world 🌎
+Find me in other places 🌎
 - Linkedin: https://www.linkedin.com/in/brunoras/
 - Instagram: https://www.instagram.com/bruno.ras/
 - Medium: https://brunoras.medium.com/
