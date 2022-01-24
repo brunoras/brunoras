@@ -14,7 +14,7 @@ My Main Skills 👩‍💻
 - Data Visualization
 
 Find me in other places 🌎
-- Linkedin: https://www.linkedin.com/in/brunoras/
+- [Linkedin](https://www.linkedin.com/in/brunoras/)
 - Instagram: https://www.instagram.com/bruno.ras/
 - Medium: https://brunoras.medium.com/
 - Kaggle: https://www.kaggle.com/brunoralmeida
