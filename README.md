@@ -7,11 +7,11 @@ Who am I? 👦
 - Amauter Astronomer.
 
 My Main Skills 👩‍💻
-- Python.
-- SQL.
-- Power BI.
-- Machine Learning.
-- Data Visualization
+- Python;
+- SQL;
+- Power BI;
+- Machine Learning;
+- Data Visualization.
 
 Find me in other places 🌎
 - [Linkedin](https://www.linkedin.com/in/brunoras/)
