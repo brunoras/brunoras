@@ -15,18 +15,18 @@ My Main Skills 👩‍💻
 
 Find me in other places 🌎
 - [Linkedin](https://www.linkedin.com/in/brunoras/)
-- Instagram: https://www.instagram.com/bruno.ras/
-- Medium: https://brunoras.medium.com/
-- Kaggle: https://www.kaggle.com/brunoralmeida
+- [Instagram](https://www.instagram.com/bruno.ras/)
+- [Medium](https://brunoras.medium.com/)
+- [Kaggle](https://www.kaggle.com/brunoralmeida)
 
 My projects 📈
-- Which Pokémon Should You Eat for Dinner: A Machine Learning Approach
+- [Which Pokémon Should You Eat for Dinner: A Machine Learning Approach](https://brunoras.medium.com/qual-pok%C3%A9mon-voc%C3%AA-deve-comer-no-seu-jantar-uma-abordagem-com-machine-learning-a08203e5c72f)
    - A project involving data scraping from internet, cleaning, natural language processing and prediction with Keras.
 
-- Did COVID-19 cause changes in crime numbers in Vitória da Conquista - BA? — An analysis of variations in a time series.
+- [Did COVID-19 cause changes in crime numbers in Vitória da Conquista - BA? — An analysis of variations in a time series.](https://brunoras.medium.com/a-covid-19-causou-mudan%C3%A7as-nos-n%C3%BAmeros-de-criminalidade-em-vit%C3%B3ria-da-conquista-ba-f8c40236c680?p=f8c40236c680)
    - A project to analyze a time series of the main crimes disclosed by SSP-BA.
 
-- Last week of 2021, how well are the Brazilian emotions?
+- [Last week of 2021, how well are the Brazilian emotions?](https://brunoras.medium.com/%C3%BAltima-semana-de-2021-como-andam-as-emo%C3%A7%C3%B5es-do-brasileiro-eb32a7cdff5a?p=eb32a7cdff5a)
    - Scraping and visualization of Google Trends data.
 
 
