@@ -29,7 +29,8 @@ My projects 📈
 - [Last week of 2021, how well are the Brazilian emotions?](https://brunoras.medium.com/%C3%BAltima-semana-de-2021-como-andam-as-emo%C3%A7%C3%B5es-do-brasileiro-eb32a7cdff5a?p=eb32a7cdff5a)
    - Scraping and visualization of Google Trends data.
 
-
+- [Churn Analysis of a Telephone Company to Increase Profits by Nearly $1 Million](https://brunoras.medium.com/churn-analysis-of-a-telephone-company-to-increase-profits-by-nearly-1-million-7755e3b17e96)
+   - A project to create heuristics and then models to predict the churn of clients.
 
 
 <!---
