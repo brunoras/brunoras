@@ -14,10 +14,7 @@ My Main Skills 👩‍💻
 - Data Visualization.
 
 Find me in other places 🌎
-- [Linkedin](https://www.linkedin.com/in/brunoras/)
-- [Instagram](https://www.instagram.com/bruno.ras/)
-- [Medium](https://brunoras.medium.com/)
-- [Kaggle](https://www.kaggle.com/brunoralmeida)
+- https://linktr.ee/brunoras
 
 My projects 📈
 - [Which Pokémon Should You Eat for Dinner: A Machine Learning Approach](https://brunoras.medium.com/qual-pok%C3%A9mon-voc%C3%AA-deve-comer-no-seu-jantar-uma-abordagem-com-machine-learning-a08203e5c72f)
