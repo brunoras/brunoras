@@ -7,7 +7,7 @@ Who am I? 👦
 - Amauter Astronomer.
 
 My Main Skills 👩‍💻
-- Python;
+- Python (skill assessment on Linkedin);
 - SQL;
 - Power BI;
 - Machine Learning;
