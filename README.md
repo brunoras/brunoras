@@ -21,6 +21,7 @@ Soft Skills 🕺
 - Critical thinking.
 
 Find me in other places 🌎
+
 https://linktr.ee/brunoras
 
 My projects 📈
