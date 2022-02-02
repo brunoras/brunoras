@@ -6,15 +6,22 @@ Who am I? 👦
 - Origamist;
 - Amauter Astronomer.
 
-My Main Skills 👩‍💻
+Hard Skills 👩‍💻
 - Python (skill assessment on Linkedin);
 - SQL;
 - Power BI;
 - Machine Learning;
 - Data Visualization.
 
+Soft Skills 🕺
+- Flexibility and resilience;
+- Team work;
+- Creativity;
+- Empathy;
+- Critical thinking.
+
 Find me in other places 🌎
-- https://linktr.ee/brunoras
+https://linktr.ee/brunoras
 
 My projects 📈
 - [Which Pokémon Should You Eat for Dinner: A Machine Learning Approach](https://brunoras.medium.com/qual-pok%C3%A9mon-voc%C3%AA-deve-comer-no-seu-jantar-uma-abordagem-com-machine-learning-a08203e5c72f)
