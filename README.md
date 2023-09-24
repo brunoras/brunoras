@@ -8,6 +8,8 @@ My tech experience and studies are: 👩‍💻
 - I have experience with Machine Learning, Data Visualization, Natural Language Processing, causal inference, descriptive statistics. 
 
 My portfolio:
+https://brunoras.medium.com/
+or
 https://brunoras.notion.site/Dados-do-Bruno-fed378a77636453eb5fe47532fc4ec48
 
 
